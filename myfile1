@@ -13,14 +13,22 @@ public class SwapNumbers {
 
         // Value of second is assigned to first
         first = second;
-     ## new changes are made by abhilash
-	 // Value of temporary (which contains the initial value of first) is assigned to second
-        second = temporary;
+     ## new changes are made by abhi
+	 public class SwapNumbers {
 
-        System.out.println("--After swap--");
+    public static void main(String[] args) {
+
+        float first = 12.0f, second = 24.5f;
+
+        System.out.println("--Before swap--");
         System.out.println("First number = " + first);
         System.out.println("Second number = " + second);
-    }
+}
+
+	 
+
+[A[A[A
+cond);
 }
 
 	 
